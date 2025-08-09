@@ -1,3 +1,4 @@
+[English](README.md) | [한국어](README.ko.md)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,28 +21,37 @@
 
 </div>
 
+---
+
 ## 📄 Table of Contents
 
 - [📖 Introduction](#-introduction-)
 - [🎯 Features](#-features-)
-- [🛠️ Get started](#%EF%B8%8F-get-started-)
+- [🛠️ Get started](#-get-started-)
 - [🌟 Plugins](#-plugins-)
 - [🙌 Contributing](#-contributing-)
 - [🎫 License](#-license-)
 
+---
+
 ## 📖 Introduction [🔝](#-table-of-contents)
 
-Don’t know how to script? Or just too lazy to do scripting? We’ve prepared this for you! MCSA!
+Don’t know how to script? Or just too lazy to do scripting? We’ve prepared this for you! MCSA!  
 MCSA modifies your AI agent for Minecraft scripting using a large collection of scripting examples!
+
+---
 
 ## 🎯 Features [🔝](#-table-of-contents)
 
 - **Accuracy**: With numerous official scripting examples, you can entrust highly accurate scripting!
 
+---
+
 ## 🛠️ Get started [🔝](#-table-of-contents)
 
 ///
 
+---
 
 ## 🙌 Contributing [🔝](#-table-of-contents)
 
@@ -54,6 +64,8 @@ The current MCSA data is processed by AI. If you encounter any syntax errors or 
 ### Better Ideas
 
 If you have better ideas or technologies than ours, please share them at (link).
+
+---
 
 ## 🎫 License [🔝](#-table-of-contents)
 
